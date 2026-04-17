@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Controle de Estoque
 
 Projeto desenvolvido em Java para controle de estoque de produtos de uma loja.
@@ -76,3 +77,6 @@ java ControleEstoque
 
 - Java
 - Scanner (entrada de dados)
+=======
+# controledeestoque
+>>>>>>> d037d93e64994182f44f53e458d1aa483b15b324
